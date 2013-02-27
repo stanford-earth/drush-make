@@ -59,10 +59,10 @@ projects[pathauto][version] = "1.6"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[people_profiles_feature][download][type] = ""
-projects[people_profiles_feature][download][url] = ""
-projects[people_profiles_feature][type] = "module"
-projects[people_profiles_feature][version] = "1.1"
+;projects[people_profiles_feature][download][type] = ""
+;projects[people_profiles_feature][download][url] = ""
+;projects[people_profiles_feature][type] = "module"
+;projects[people_profiles_feature][version] = "1.1"
 
 projects[search404][version] = "1.12"
 
@@ -80,47 +80,47 @@ projects[wysiwyg][version] = "2.4"
 
 ; Themes
 
-projects[framework][version] = "2.6"
+;projects[framework][version] = "2.6"
 
 ; Modules
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[research_group_profile_views][download][type] = ""
-projects[research_group_profile_views][download][url] = ""
-projects[research_group_profile_views][type] = "module"
+;projects[research_group_profile_views][download][type] = ""
+;projects[research_group_profile_views][download][url] = ""
+;projects[research_group_profile_views][type] = "module"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[ses_bookings][download][type] = ""
-projects[ses_bookings][download][url] = ""
-projects[ses_bookings][type] = "module"
+;projects[ses_bookings][download][type] = ""
+;projects[ses_bookings][download][url] = ""
+;projects[ses_bookings][type] = "module"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[ses_client_sites][download][type] = ""
-projects[ses_client_sites][download][url] = ""
-projects[ses_client_sites][type] = "module"
+;projects[ses_client_sites][download][type] = ""
+;projects[ses_client_sites][download][url] = ""
+;projects[ses_client_sites][type] = "module"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[ses_custom][download][type] = ""
-projects[ses_custom][download][url] = ""
-projects[ses_custom][type] = "module"
+;projects[ses_custom][download][type] = ""
+;projects[ses_custom][download][url] = ""
+;projects[ses_custom][type] = "module"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[wmd4][download][type] = ""
-projects[wmd4][download][url] = ""
-projects[wmd4][type] = "module"
+;projects[wmd4][download][type] = ""
+;projects[wmd4][download][url] = ""
+;projects[wmd4][type] = "module"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[wmd4_guest][download][type] = ""
-projects[wmd4_guest][download][url] = ""
-projects[wmd4_guest][type] = "module"
+;projects[wmd4_guest][download][type] = ""
+;projects[wmd4_guest][download][url] = ""
+;projects[wmd4_guest][type] = "module"
 
-projects[researchgroup][download][type] = "git"
-projects[researchgroup][download][url] = "https://github.com/stanford-earth/d6_researchgroup.git"
-projects[researchgroup][type] = "theme"
+;projects[researchgroup][download][type] = "git"
+;projects[researchgroup][download][url] = "https://github.com/stanford-earth/d6_researchgroup.git"
+;projects[researchgroup][type] = "theme"
 
 
