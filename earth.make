@@ -17,3 +17,7 @@ projects[open_framework][type] = "theme"
 projects[stanford_framework][download][type] = "git"
 projects[stanford_framework][download][url] = "https://github.com/SU-SWS/stanford_framework.git"
 projects[stanford_framework][type] = "theme"
+
+projects[earth-keen][download][type] = "git"
+projects[earth-keen][download][url] = "https://github.com/stanford-earth/earth-keen.git"
+projects[earth-keen][type] = "theme"
